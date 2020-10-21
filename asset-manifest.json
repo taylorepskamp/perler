@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/perler/static/css/main.24526a03.chunk.css",
+    "main.js": "/perler/static/js/main.d804b125.chunk.js",
+    "main.js.map": "/perler/static/js/main.d804b125.chunk.js.map",
+    "runtime-main.js": "/perler/static/js/runtime-main.7a833a4b.js",
+    "runtime-main.js.map": "/perler/static/js/runtime-main.7a833a4b.js.map",
+    "static/js/2.e929c0ea.chunk.js": "/perler/static/js/2.e929c0ea.chunk.js",
+    "static/js/2.e929c0ea.chunk.js.map": "/perler/static/js/2.e929c0ea.chunk.js.map",
+    "index.html": "/perler/index.html",
+    "precache-manifest.2cea9c469a106b6c9dfd2b0ec6a0e6f0.js": "/perler/precache-manifest.2cea9c469a106b6c9dfd2b0ec6a0e6f0.js",
+    "service-worker.js": "/perler/service-worker.js",
+    "static/css/main.24526a03.chunk.css.map": "/perler/static/css/main.24526a03.chunk.css.map",
+    "static/js/2.e929c0ea.chunk.js.LICENSE.txt": "/perler/static/js/2.e929c0ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a833a4b.js",
+    "static/js/2.e929c0ea.chunk.js",
+    "static/css/main.24526a03.chunk.css",
+    "static/js/main.d804b125.chunk.js"
+  ]
+}
