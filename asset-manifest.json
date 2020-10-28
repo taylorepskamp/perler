@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/perler/static/css/main.24526a03.chunk.css",
-    "main.js": "/perler/static/js/main.798260a6.chunk.js",
-    "main.js.map": "/perler/static/js/main.798260a6.chunk.js.map",
+    "main.js": "/perler/static/js/main.5fbf756d.chunk.js",
+    "main.js.map": "/perler/static/js/main.5fbf756d.chunk.js.map",
     "runtime-main.js": "/perler/static/js/runtime-main.7a833a4b.js",
     "runtime-main.js.map": "/perler/static/js/runtime-main.7a833a4b.js.map",
-    "static/js/2.e929c0ea.chunk.js": "/perler/static/js/2.e929c0ea.chunk.js",
-    "static/js/2.e929c0ea.chunk.js.map": "/perler/static/js/2.e929c0ea.chunk.js.map",
+    "static/js/2.7ee0dc3f.chunk.js": "/perler/static/js/2.7ee0dc3f.chunk.js",
+    "static/js/2.7ee0dc3f.chunk.js.map": "/perler/static/js/2.7ee0dc3f.chunk.js.map",
     "index.html": "/perler/index.html",
-    "precache-manifest.a6b1f84052eabdecde2760aa81595c30.js": "/perler/precache-manifest.a6b1f84052eabdecde2760aa81595c30.js",
+    "precache-manifest.47bbb1965c07842ea66030053ecf1b4b.js": "/perler/precache-manifest.47bbb1965c07842ea66030053ecf1b4b.js",
     "service-worker.js": "/perler/service-worker.js",
     "static/css/main.24526a03.chunk.css.map": "/perler/static/css/main.24526a03.chunk.css.map",
-    "static/js/2.e929c0ea.chunk.js.LICENSE.txt": "/perler/static/js/2.e929c0ea.chunk.js.LICENSE.txt"
+    "static/js/2.7ee0dc3f.chunk.js.LICENSE.txt": "/perler/static/js/2.7ee0dc3f.chunk.js.LICENSE.txt",
+    "static/media/parrot.jpg": "/perler/static/media/parrot.5aa922c0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7a833a4b.js",
-    "static/js/2.e929c0ea.chunk.js",
+    "static/js/2.7ee0dc3f.chunk.js",
     "static/css/main.24526a03.chunk.css",
-    "static/js/main.798260a6.chunk.js"
+    "static/js/main.5fbf756d.chunk.js"
   ]
 }
