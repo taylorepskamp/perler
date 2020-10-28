@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af7ae0581925c1d845bbc61c7f6ed7d3",
+    "revision": "e6347ea819d3f13d8bc0ed84037d8c77",
     "url": "/perler/index.html"
   },
   {
-    "revision": "312a459e04a412221fb3",
-    "url": "/perler/static/css/main.24526a03.chunk.css"
+    "revision": "ecdad9da6b4d14146818",
+    "url": "/perler/static/css/main.3205a443.chunk.css"
   },
   {
     "revision": "390a77aa5063e3a048b0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/perler/static/js/2.7ee0dc3f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "312a459e04a412221fb3",
-    "url": "/perler/static/js/main.5fbf756d.chunk.js"
+    "revision": "ecdad9da6b4d14146818",
+    "url": "/perler/static/js/main.14bc0f75.chunk.js"
   },
   {
     "revision": "04f3bcf3cc8a70f51433",
